@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "BehaviourGameJam",
+			"Path": "..\\Source\\BehaviourGameJam.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "BehaviourGameJamEditor",
+			"Path": "..\\Source\\BehaviourGameJamEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

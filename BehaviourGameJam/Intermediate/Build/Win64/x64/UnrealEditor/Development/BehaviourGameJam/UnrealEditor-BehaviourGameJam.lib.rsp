@@ -1,0 +1,17 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-BehaviourGameJam.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\ISART\Game Jam\BehaviourGameJam\Intermediate\Build\Win64\x64\BehaviourGameJamEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
+"D:\ISART\Game Jam\BehaviourGameJam\Intermediate\Build\Win64\x64\UnrealEditor\Development\BehaviourGameJam\BehaviourGameJam.init.gen.cpp.obj"
+"D:\ISART\Game Jam\BehaviourGameJam\Intermediate\Build\Win64\x64\UnrealEditor\Development\BehaviourGameJam\BehaviourGameJamCharacter.gen.cpp.obj"
+"D:\ISART\Game Jam\BehaviourGameJam\Intermediate\Build\Win64\x64\UnrealEditor\Development\BehaviourGameJam\BehaviourGameJamGameMode.gen.cpp.obj"
+"D:\ISART\Game Jam\BehaviourGameJam\Intermediate\Build\Win64\x64\UnrealEditor\Development\BehaviourGameJam\BehaviourGameJam.cpp.obj"
+"D:\ISART\Game Jam\BehaviourGameJam\Intermediate\Build\Win64\x64\UnrealEditor\Development\BehaviourGameJam\BehaviourGameJamCharacter.cpp.obj"
+"D:\ISART\Game Jam\BehaviourGameJam\Intermediate\Build\Win64\x64\UnrealEditor\Development\BehaviourGameJam\BehaviourGameJamGameMode.cpp.obj"
+"D:\ISART\Game Jam\BehaviourGameJam\Intermediate\Build\Win64\x64\UnrealEditor\Development\BehaviourGameJam\Default.rc2.res"
+/OUT:"D:\ISART\Game Jam\BehaviourGameJam\Intermediate\Build\Win64\x64\UnrealEditor\Development\BehaviourGameJam\UnrealEditor-BehaviourGameJam.lib"
