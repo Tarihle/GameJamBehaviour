@@ -1,8 +1,8 @@
 {
 	"SourceFiles": [
-		"D:\\ISART\\Game Jam\\BehaviourGameJam\\Source\\BehaviourGameJam\\BehaviourGameJam.Build.cs",
-		"D:\\ISART\\Game Jam\\BehaviourGameJam\\Source\\BehaviourGameJam.Target.cs",
-		"D:\\ISART\\Game Jam\\BehaviourGameJam\\Source\\BehaviourGameJamEditor.Target.cs"
+		"D:\\ISART\\Game Jam\\GameJamBehaviour\\BehaviourGameJam\\Source\\BehaviourGameJam\\BehaviourGameJam.Build.cs",
+		"D:\\ISART\\Game Jam\\GameJamBehaviour\\BehaviourGameJam\\Source\\BehaviourGameJam.Target.cs",
+		"D:\\ISART\\Game Jam\\GameJamBehaviour\\BehaviourGameJam\\Source\\BehaviourGameJamEditor.Target.cs"
 	],
 	"EngineVersion": "5.4.4"
 }

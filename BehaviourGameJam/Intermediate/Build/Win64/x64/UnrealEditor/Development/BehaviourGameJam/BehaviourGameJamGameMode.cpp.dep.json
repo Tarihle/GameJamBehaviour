@@ -1,18 +1,18 @@
 {
     "Version": "1.2",
     "Data": {
-        "Source": "d:\\isart\\game jam\\behaviourgamejam\\source\\behaviourgamejam\\behaviourgamejamgamemode.cpp",
+        "Source": "d:\\isart\\game jam\\gamejambehaviour\\behaviourgamejam\\source\\behaviourgamejam\\behaviourgamejamgamemode.cpp",
         "ProvidedModule": "",
-        "PCH": "d:\\isart\\game jam\\behaviourgamejam\\intermediate\\build\\win64\\x64\\behaviourgamejameditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "PCH": "d:\\isart\\game jam\\gamejambehaviour\\behaviourgamejam\\intermediate\\build\\win64\\x64\\behaviourgamejameditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
         "Includes": [
-            "d:\\isart\\game jam\\behaviourgamejam\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\behaviourgamejam\\definitions.behaviourgamejam.h",
-            "d:\\isart\\game jam\\behaviourgamejam\\source\\behaviourgamejam\\behaviourgamejamgamemode.h",
+            "d:\\isart\\game jam\\gamejambehaviour\\behaviourgamejam\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\behaviourgamejam\\definitions.behaviourgamejam.h",
+            "d:\\isart\\game jam\\gamejambehaviour\\behaviourgamejam\\source\\behaviourgamejam\\behaviourgamejamgamemode.h",
             "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
             "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
             "c:\\program files\\epic games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\serverstatreplicator.generated.h",
             "c:\\program files\\epic games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gamemodebase.generated.h",
-            "d:\\isart\\game jam\\behaviourgamejam\\intermediate\\build\\win64\\unrealeditor\\inc\\behaviourgamejam\\uht\\behaviourgamejamgamemode.generated.h",
-            "d:\\isart\\game jam\\behaviourgamejam\\source\\behaviourgamejam\\behaviourgamejamcharacter.h",
+            "d:\\isart\\game jam\\gamejambehaviour\\behaviourgamejam\\intermediate\\build\\win64\\unrealeditor\\inc\\behaviourgamejam\\uht\\behaviourgamejamgamemode.generated.h",
+            "d:\\isart\\game jam\\gamejambehaviour\\behaviourgamejam\\source\\behaviourgamejam\\behaviourgamejamcharacter.h",
             "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\gameframework\\character.h",
             "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\gameframework\\charactermovementreplication.h",
             "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\experimental\\iris\\core\\public\\iris\\serialization\\irisobjectreferencepackagemap.h",
@@ -21,7 +21,7 @@
             "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\gameframework\\rootmotionsource.h",
             "c:\\program files\\epic games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\rootmotionsource.generated.h",
             "c:\\program files\\epic games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\character.generated.h",
-            "d:\\isart\\game jam\\behaviourgamejam\\intermediate\\build\\win64\\unrealeditor\\inc\\behaviourgamejam\\uht\\behaviourgamejamcharacter.generated.h"
+            "d:\\isart\\game jam\\gamejambehaviour\\behaviourgamejam\\intermediate\\build\\win64\\unrealeditor\\inc\\behaviourgamejam\\uht\\behaviourgamejamcharacter.generated.h"
         ],
         "ImportedModules": [],
         "ImportedHeaderUnits": []

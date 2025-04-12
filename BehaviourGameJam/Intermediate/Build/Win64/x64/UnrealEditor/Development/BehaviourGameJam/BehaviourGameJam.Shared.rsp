@@ -1,6 +1,6 @@
 /I "."
-/I "D:\ISART\Game Jam\BehaviourGameJam\Intermediate\Build\Win64\UnrealEditor\Inc\BehaviourGameJam\UHT"
-/I "D:\ISART\Game Jam\BehaviourGameJam\Source"
+/I "D:\ISART\Game Jam\GameJamBehaviour\BehaviourGameJam\Intermediate\Build\Win64\UnrealEditor\Inc\BehaviourGameJam\UHT"
+/I "D:\ISART\Game Jam\GameJamBehaviour\BehaviourGameJam\Source"
 /I "Runtime\Core\Public"
 /I "Runtime\Core\Internal"
 /I "Runtime\TraceLog\Public"

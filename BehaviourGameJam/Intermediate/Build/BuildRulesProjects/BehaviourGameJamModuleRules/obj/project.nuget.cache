@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9bVaPE1W1Fg=",
+  "dgSpecHash": "NtKl3mdH6FM=",
   "success": true,
-  "projectFilePath": "D:\\ISART\\Game Jam\\BehaviourGameJam\\Intermediate\\Build\\BuildRulesProjects\\BehaviourGameJamModuleRules\\BehaviourGameJamModuleRules.csproj",
+  "projectFilePath": "D:\\ISART\\Game Jam\\GameJamBehaviour\\BehaviourGameJam\\Intermediate\\Build\\BuildRulesProjects\\BehaviourGameJamModuleRules\\BehaviourGameJamModuleRules.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\louis\\.nuget\\packages\\bitfaster.caching\\2.4.1\\bitfaster.caching.2.4.1.nupkg.sha512",
     "C:\\Users\\louis\\.nuget\\packages\\blake3\\0.5.1\\blake3.0.5.1.nupkg.sha512",
